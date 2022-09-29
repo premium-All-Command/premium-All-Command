@@ -98,7 +98,7 @@
 <table border="1">
   <tr>
     <td valign="top"><a href="https://github.com/premium-All-Command/github-readme-stats"> <img src="premium-All-Commandef&border_radius=10" alt ="MR-NAYAN-404 GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/premium-All-Command/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-NAYAN-404&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"> <a href="https://github.com/premium-All-Command/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FJ-Riyad049&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
